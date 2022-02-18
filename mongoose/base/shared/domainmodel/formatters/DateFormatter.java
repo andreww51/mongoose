@@ -1,4 +1,4 @@
-package mongoose.shared.domainmodel.formatters;
+package mongoose.base.shared.domainmodel.formatters;
 
 import javafx.util.StringConverter;
 import dev.webfx.framework.shared.orm.domainmodel.formatter.ValueFormatter;
